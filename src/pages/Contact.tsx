@@ -16,17 +16,17 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["+91 XXXXX XXXXX"],
+    details: ["+91 98486 26398"],
   },
   {
     icon: Mail,
     title: "Email",
-    details: ["info@mvrtransport.com"],
+    details: ["vr2586953@gmail.com "],
   },
   {
     icon: Clock,
     title: "Business Hours",
-    details: ["Monday - Saturday", "9:00 AM - 6:00 PM"],
+    details: ["9:00 AM - 6:00 PM"],
   },
 ];
 

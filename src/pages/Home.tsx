@@ -138,7 +138,7 @@ const Home = () => {
                 </div>
               </div>
               <div className="absolute -bottom-4 -left-4 rounded-xl bg-primary p-4 text-primary-foreground shadow-lg">
-                <p className="text-3xl font-bold">10+</p>
+                <p className="text-3xl font-bold">4+</p>
                 <p className="text-sm">Years of Experience</p>
               </div>
             </div>

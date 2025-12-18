@@ -29,12 +29,6 @@ const services = [
     features: ["Quick response time", "24/7 availability", "Emergency transport"],
   },
   {
-    icon: Building2,
-    title: "Business Logistics Support",
-    description: "End-to-end logistics support for businesses. From warehousing coordination to last-mile delivery, we've got you covered.",
-    features: ["Dedicated account manager", "Regular reporting", "Customized solutions"],
-  },
-  {
     icon: RotateCcw,
     title: "Regular Contract Services",
     description: "Long-term transport partnerships for businesses with ongoing logistics needs. Enjoy preferential rates and dedicated service.",
