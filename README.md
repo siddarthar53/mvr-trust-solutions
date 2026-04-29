@@ -1,73 +1,93 @@
-# Welcome to your Lovable project
+# 🚚 MVR Transport Website
 
-## Project info
+## 📌 Overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The **MVR Transport Website** is a modern, responsive web application developed for a small-scale logistics business based in Hyderabad. It showcases transport services, builds trust with customers, and enables easy communication for service inquiries.
 
-## How can I edit this code?
+This platform helps the business establish an online presence and attract potential clients through a clean UI and structured service information.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🎯 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+* 🌐 Responsive and modern UI design
+* 📍 Location-focused service presentation (Hyderabad & Telangana)
+* 🚚 Detailed transport services listing
+* 📞 Contact section for customer inquiries
+* 💼 Professional business branding
+* ⚡ Fast and optimized performance
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧩 Sections Included
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* **Hero Section** – Highlights business value proposition
+* **Why Choose Us** – Key strengths like reliability, safety, and timely delivery
+* **Services Section** – Local, regional, and commercial transport services
+* **Call-to-Action** – Easy contact options for customers
+* **Footer** – Business details and quick navigation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🏗️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+* **Frontend:** React + TypeScript
+* **Build Tool:** Vite
+* **Styling:** Tailwind CSS + shadcn-ui
+* **Deployment:** Vercel
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Node.js & npm (recommended via nvm)
+
+### Installation
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📈 Business Impact
 
-**Use GitHub Codespaces**
+* Provides digital presence for a local transport business
+* Improves customer reach and credibility
+* Simplifies communication and service discovery
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🚧 Future Enhancements
 
-This project is built with:
+* Online booking system
+* Real-time tracking integration
+* Customer testimonials section
+* Admin dashboard for service management
+* SEO optimization & analytics
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 👨‍💻 Developer
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+**Siddartha Reddy Madgula**
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 📜 License
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+This project is developed for a small-scale business and can be modified for similar use cases.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
